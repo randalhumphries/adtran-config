@@ -40,7 +40,7 @@ rspec
 
 ## Contributing
 
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/randalhumphries/adtran-config/blob/master/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
 
 Ruby style conventions are used for this project. All contributions should aim to follow accepted conventions and best practices.
 
