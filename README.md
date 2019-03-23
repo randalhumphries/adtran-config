@@ -1,4 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/48243fc3f1486f72b825/maintainability)](https://codeclimate.com/github/randalhumphries/adtran-config/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/48243fc3f1486f72b825/test_coverage)](https://codeclimate.com/github/randalhumphries/adtran-config/test_coverage)
+[![Build Status](https://travis-ci.org/randalhumphries/adtran-config.svg?branch=master)](https://travis-ci.org/randalhumphries/adtran-config) [![Maintainability](https://api.codeclimate.com/v1/badges/48243fc3f1486f72b825/maintainability)](https://codeclimate.com/github/randalhumphries/adtran-config/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/48243fc3f1486f72b825/test_coverage)](https://codeclimate.com/github/randalhumphries/adtran-config/test_coverage)
 
 # adtran-config
 Provides a DSL for configuring Adtran devices
