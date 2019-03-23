@@ -45,7 +45,6 @@ Please read [CONTRIBUTING.md](https://github.com/randalhumphries/adtran-config/b
 Ruby style conventions are used for this project. All contributions should aim to follow accepted conventions and best practices.
 
 * [thoughtbot Ruby Style Guide](https://github.com/thoughtbot/guides/tree/master/style/ruby)
-* [thoughtbot Rails Style Guide](https://github.com/thoughtbot/guides/tree/master/style/rails)
 * [The RSpec Style Guide](https://github.com/reachlocal/rspec-style-guide)
 
 ## Versioning
