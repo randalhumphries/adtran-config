@@ -51,7 +51,7 @@ Ruby style conventions are used for this project. All contributions should aim t
 
 ## Versioning
 
-I haven't gotten far enough into this project to decide a versioning system. I'll likely implement [SemVer](http://semver.org/) or similar at some point as it matures.
+This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Authors
 
